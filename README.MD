@@ -30,7 +30,7 @@
 
 После активации доступен полноценный доступ к API (Swagger UI):
 
-![Профиль пользователя в Swagger](fastapi_auth/docs/swagger_preview.jpg)
+![Профиль пользователя в Swagger](fastapi_auth/docs/swager_preview.jpg)
 
 ---
 
