@@ -26,11 +26,11 @@
 
 Пользователь получает письмо с кнопкой подтверждения прямо на свой email:
 
-![Пример письма с подтверждением](docs/email_preview.png)
+![Пример письма с подтверждением](docs/email_preview.jpg)
 
 После активации доступен полноценный доступ к API (Swagger UI):
 
-![Профиль пользователя в Swagger](docs/swagger_preview.png)
+![Профиль пользователя в Swagger](docs/swagger_preview.jpg)
 
 ---
 
