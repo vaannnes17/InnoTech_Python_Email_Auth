@@ -26,11 +26,11 @@
 
 Пользователь получает письмо с кнопкой подтверждения прямо на свой email:
 
-![Пример письма с подтверждением](docs/email_preview.jpg)
+![Пример письма с подтверждением](fastapi_auth/docs/email_preview.jpg)
 
 После активации доступен полноценный доступ к API (Swagger UI):
 
-![Профиль пользователя в Swagger](docs/swagger_preview.jpg)
+![Профиль пользователя в Swagger](fastapi_auth/docs/swagger_preview.jpg)
 
 ---
 
